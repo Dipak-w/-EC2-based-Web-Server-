@@ -77,7 +77,7 @@ sudo echo "<h1>Welcome to My Web Server</h1>" > /var/www/html/index.html
 Step 6: Access the Web Server 
 Open a browser and go to: 
 
-http://your-instance-public-ip 
+http://43.204.221.218 
 1. You should see "Welcome to My Web Server". 
 
 
